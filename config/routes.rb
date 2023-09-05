@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'line/items'
   root to: 'pages#home'
   devise_for :users
   root 'quotes#index', as: :authenticated_root
