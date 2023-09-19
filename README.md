@@ -5,9 +5,9 @@ This project is a single-page reactive quote editor built using Turbo, a Ruby on
 
 
 ### Features
-Real-time Editing: Users can create, edit, and delete quotes without needing to refresh the page, thanks to Turbo's seamless integration.
+- Real-time Editing: Users can create, edit, and delete quotes without needing to refresh the page, thanks to Turbo's seamless integration.
 
-User Authentication: Secure user authentication ensures that only authorized users can access and manage their quotes.
+- User Authentication: Secure user authentication ensures that only authorized users can access and manage their quotes.
 
 ### Getting Started
 
