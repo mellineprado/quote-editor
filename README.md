@@ -3,6 +3,8 @@
 ### Overview
 This project is a single-page reactive quote editor built using Turbo, a Ruby on Rails framework that facilitates building interactive and responsive web applications. Based on  tutorial [HotRails](https://www.hotrails.dev/turbo-rails) - Turbo Rails Tutorial.
 
+![Peek 19-09-2023 15-10](https://github.com/mellineprado/quote-editor/assets/113559324/a374db49-1b03-4194-9e16-4df87a948d99)
+
 
 ### Features
 - Real-time Editing: Users can create, edit, and delete quotes without needing to refresh the page, thanks to Turbo's seamless integration.
