@@ -10,14 +10,6 @@ Real-time Editing: Users can create, edit, and delete quotes without needing to 
 
 User Authentication: Secure user authentication ensures that only authorized users can access and manage their quotes.
 
-### Tools 
-- Ruby on Rails
-- Turbo
-- HTML
-- CSS
-- JavaScript
-
-
 ### Getting Started
 
 1. **bundle install** - install dependencies
