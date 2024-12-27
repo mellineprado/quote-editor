@@ -4,12 +4,21 @@
   box-shadow: var(--shadow-large);
   padding: var(--space-xs) var(--space-m);
   margin-bottom: var(--space-xxl);
-  background-color: (var(--color-white));
+  background-color: var(--color-white);
 
   &__brand {
     font-weight: bold;
     font-size: var(--font-size-xl);
     color: var(--color-text-header);
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+  }
+
+  &__company {
+    font-size: var(--font-size-m);
+    color: var(--color-text-secondary);
+    margin-left: var(--space-xs);
   }
 
   &__name {
