@@ -37,7 +37,7 @@ This project was created using the following technologies:
   - `stimulus-rails`
   - `simple_form`
 - **Testing**: BDD with Capybara and Selenium  
-- **Frontend**: SCSS, Stimulus.js  
+- **Frontend**: SCSS, Boostratp, Stimulus.js 
 - **Database**: PostgreSQL  
 
 ---
