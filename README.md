@@ -1,8 +1,4 @@
 # Single-Page Reactive Quote Editor using Turbo
-![Captura de tela de 2024-12-26 21-53-14](https://github.com/user-attachments/assets/bedf7017-0fbb-4e0a-84e1-eca39642bfce)
-
-
-
 
 ![Captura de tela de 2024-12-26 21-55-07](https://github.com/user-attachments/assets/6c99ff78-c092-4862-86d7-99c666d948e9)
 
